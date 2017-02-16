@@ -25,7 +25,7 @@ function pickLocation() {
   food.mult(scl);
 }
 
-function mousePressed() {
+function mouseMove() {
   s.total++;
   alert('Mouse Basıldı');
 }
