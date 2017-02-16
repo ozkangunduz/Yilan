@@ -13,6 +13,8 @@ function setup() {
   s = new Snake();
   frameRate(10);
   pickLocation();
+  createCanvas(300,200);
+  
 
 }
 
